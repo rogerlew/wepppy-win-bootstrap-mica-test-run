@@ -1,0 +1,1536 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SUBWTA" id="SUBWTA">
+	<SimpleField name="topaz_id" type="string"></SimpleField>
+	<SimpleField name="wepp_id" type="int"></SimpleField>
+	<SimpleField name="chn_id" type="int"></SimpleField>
+	<SimpleField name="length(m)" type="float"></SimpleField>
+	<SimpleField name="width(m)" type="float"></SimpleField>
+	<SimpleField name="aspect" type="float"></SimpleField>
+	<SimpleField name="SRP(kg/ha)" type="float"></SimpleField>
+	<SimpleField name="SlLs(kg/h)" type="float"></SimpleField>
+	<SimpleField name="WeppID" type="int"></SimpleField>
+	<SimpleField name="Dis(m3/ha)" type="float"></SimpleField>
+	<SimpleField name="slope" type="float"></SimpleField>
+	<SimpleField name="soil" type="string"></SimpleField>
+	<SimpleField name="watershed" type="string"></SimpleField>
+	<SimpleField name="TP(kg/ha)" type="float"></SimpleField>
+	<SimpleField name="landuse" type="string"></SimpleField>
+	<SimpleField name="TopazID" type="int"></SimpleField>
+	<SimpleField name="SdYd(tn/h)" type="float"></SimpleField>
+	<SimpleField name="cntrb(ha)" type="float"></SimpleField>
+	<SimpleField name="PP(kg/ha)" type="float"></SimpleField>
+	<SimpleField name="area(ha)" type="float"></SimpleField>
+</Schema>
+<Folder><name>SUBWTA</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">134</SimpleData>
+		<SimpleData name="wepp_id">39</SimpleData>
+		<SimpleData name="chn_id">4</SimpleData>
+		<SimpleData name="length(m)">332.132034355964</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">154.032670053655</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">39</SimpleData>
+		<SimpleData name="Dis(m3/ha)">100322.652</SimpleData>
+		<SimpleData name="slope">0.251462050365133</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">134</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">13.84</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.996396103067893</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.292818995568,47.1908456634668 -116.292822581309,47.1905757301714 -116.292426597166,47.1905732851877 -116.292423009418,47.1908432184601 -116.292818995568,47.1908456634668</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">134</SimpleData>
+		<SimpleData name="wepp_id">39</SimpleData>
+		<SimpleData name="chn_id">4</SimpleData>
+		<SimpleData name="length(m)">332.132034355964</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">154.032670053655</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">39</SimpleData>
+		<SimpleData name="Dis(m3/ha)">100322.652</SimpleData>
+		<SimpleData name="slope">0.251462050365133</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">134</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">13.84</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.996396103067893</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.292426597166,47.1905732851877 -116.292433772507,47.190033418604 -116.29203779243,47.1900309722977 -116.292030613075,47.1905708388355 -116.292426597166,47.1905732851877</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">114</SimpleData>
+		<SimpleData name="wepp_id">41</SimpleData>
+		<SimpleData name="chn_id">6</SimpleData>
+		<SimpleData name="length(m)">469.705627484771</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">158.067763271315</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">41</SimpleData>
+		<SimpleData name="Dis(m3/ha)">103964.051</SimpleData>
+		<SimpleData name="slope">0.177319633710947</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">114</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">19.62</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">1.40911688245431</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.295990456325,47.1905952407741 -116.296004734533,47.1895155067303 -116.295608758004,47.1895130727862 -116.295594471766,47.1905928067386 -116.295990456325,47.1905952407741</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">144</SimpleData>
+		<SimpleData name="wepp_id">38</SimpleData>
+		<SimpleData name="chn_id">3</SimpleData>
+		<SimpleData name="length(m)">240</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">194.259371153098</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">38</SimpleData>
+		<SimpleData name="Dis(m3/ha)">84202.5</SimpleData>
+		<SimpleData name="slope">0.273332857142857</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">144</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">8.33</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.290842661114,47.1905634915678 -116.290871425461,47.1884040256566 -116.290475457637,47.1884015740145 -116.290446677231,47.1905610397415 -116.290842661114,47.1905634915678</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">134</SimpleData>
+		<SimpleData name="wepp_id">39</SimpleData>
+		<SimpleData name="chn_id">4</SimpleData>
+		<SimpleData name="length(m)">332.132034355964</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">154.032670053655</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">39</SimpleData>
+		<SimpleData name="Dis(m3/ha)">100322.652</SimpleData>
+		<SimpleData name="slope">0.251462050365133</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">134</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">13.84</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.996396103067893</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.29203779243,47.1900309722977 -116.29204138203,47.1897610390094 -116.291645404013,47.1897585913576 -116.291641812406,47.190028524623 -116.29203779243,47.1900309722977</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">134</SimpleData>
+		<SimpleData name="wepp_id">39</SimpleData>
+		<SimpleData name="chn_id">4</SimpleData>
+		<SimpleData name="length(m)">332.132034355964</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">154.032670053655</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">39</SimpleData>
+		<SimpleData name="Dis(m3/ha)">100322.652</SimpleData>
+		<SimpleData name="slope">0.251462050365133</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">134</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">13.84</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.996396103067893</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.291645404013,47.1897585913576 -116.291656178521,47.1889487914834 -116.291260206578,47.1889463425321 -116.291249426048,47.1897561423373 -116.291645404013,47.1897585913576</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">114</SimpleData>
+		<SimpleData name="wepp_id">41</SimpleData>
+		<SimpleData name="chn_id">6</SimpleData>
+		<SimpleData name="length(m)">469.705627484771</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">158.067763271315</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">41</SimpleData>
+		<SimpleData name="Dis(m3/ha)">103964.051</SimpleData>
+		<SimpleData name="slope">0.177319633710947</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">114</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">19.62</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">1.40911688245431</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.295608758004,47.1895130727862 -116.295619472138,47.1887032721855 -116.295223501683,47.1887008369415 -116.295212781527,47.1895106374736 -116.295608758004,47.1895130727862</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">134</SimpleData>
+		<SimpleData name="wepp_id">39</SimpleData>
+		<SimpleData name="chn_id">4</SimpleData>
+		<SimpleData name="length(m)">332.132034355964</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">154.032670053655</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">39</SimpleData>
+		<SimpleData name="Dis(m3/ha)">100322.652</SimpleData>
+		<SimpleData name="slope">0.251462050365133</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">134</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">13.84</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.996396103067893</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.291260206578,47.1889463425321 -116.291267393338,47.1884064759304 -116.290871425461,47.1884040256566 -116.290864234687,47.1889438922124 -116.291260206578,47.1889463425321</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">114</SimpleData>
+		<SimpleData name="wepp_id">41</SimpleData>
+		<SimpleData name="chn_id">6</SimpleData>
+		<SimpleData name="length(m)">469.705627484771</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">158.067763271315</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">41</SimpleData>
+		<SimpleData name="Dis(m3/ha)">103964.051</SimpleData>
+		<SimpleData name="slope">0.177319633710947</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">114</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">19.62</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">1.40911688245431</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.295223501683,47.1887008369415 -116.295230648194,47.1881609698552 -116.294834681805,47.1881585332886 -116.294827531279,47.1886984003291 -116.295223501683,47.1887008369415</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">124</SimpleData>
+		<SimpleData name="wepp_id">40</SimpleData>
+		<SimpleData name="chn_id">5</SimpleData>
+		<SimpleData name="length(m)">199.705627484771</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">167.399593318811</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">40</SimpleData>
+		<SimpleData name="Dis(m3/ha)">338265.38</SimpleData>
+		<SimpleData name="slope">0.14238497406218</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">124</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">28.05</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.599116882454314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.290871425461,47.1884040256566 -116.29087502077,47.1881340923593 -116.290479054953,47.1881316407401 -116.290475457637,47.1884015740145 -116.290871425461,47.1884040256566</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">114</SimpleData>
+		<SimpleData name="wepp_id">41</SimpleData>
+		<SimpleData name="chn_id">6</SimpleData>
+		<SimpleData name="length(m)">469.705627484771</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">158.067763271315</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">41</SimpleData>
+		<SimpleData name="Dis(m3/ha)">103964.051</SimpleData>
+		<SimpleData name="slope">0.177319633710947</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">114</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">19.62</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">1.40911688245431</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.294834681805,47.1881585332886 -116.294845407205,47.1873487326303 -116.294449446889,47.1873462947639 -116.294438715468,47.1881560953535 -116.294834681805,47.1881585332886</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">124</SimpleData>
+		<SimpleData name="wepp_id">40</SimpleData>
+		<SimpleData name="chn_id">5</SimpleData>
+		<SimpleData name="length(m)">199.705627484771</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">167.399593318811</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">40</SimpleData>
+		<SimpleData name="Dis(m3/ha)">338265.38</SimpleData>
+		<SimpleData name="slope">0.14238497406218</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">124</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">28.05</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.599116882454314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.290479054953,47.1881316407401 -116.290486249428,47.1875917741525 -116.290090287677,47.187589321211 -116.290083089187,47.1881291877526 -116.290479054953,47.1881316407401</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">154</SimpleData>
+		<SimpleData name="wepp_id">37</SimpleData>
+		<SimpleData name="chn_id">2</SimpleData>
+		<SimpleData name="length(m)">132.426406871193</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">189.747297662731</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">37</SimpleData>
+		<SimpleData name="Dis(m3/ha)">121739.063</SimpleData>
+		<SimpleData name="slope">0.294548006178464</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">154</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">6.78</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.397279220613579</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.287710907008,47.1878445079649 -116.287718129478,47.1873046416742 -116.287322170101,47.1873021791772 -116.287314943616,47.1878420454217 -116.287710907008,47.1878445079649</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">124</SimpleData>
+		<SimpleData name="wepp_id">40</SimpleData>
+		<SimpleData name="chn_id">5</SimpleData>
+		<SimpleData name="length(m)">199.705627484771</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">167.399593318811</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">40</SimpleData>
+		<SimpleData name="Dis(m3/ha)">338265.38</SimpleData>
+		<SimpleData name="slope">0.14238497406218</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">124</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">28.05</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.599116882454314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.290090287677,47.187589321211 -116.290093886843,47.1873193879207 -116.289697927152,47.1873169336339 -116.289694325978,47.1875868669011 -116.290090287677,47.187589321211</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">114</SimpleData>
+		<SimpleData name="wepp_id">41</SimpleData>
+		<SimpleData name="chn_id">6</SimpleData>
+		<SimpleData name="length(m)">469.705627484771</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">158.067763271315</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">41</SimpleData>
+		<SimpleData name="Dis(m3/ha)">103964.051</SimpleData>
+		<SimpleData name="slope">0.177319633710947</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">114</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">19.62</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">1.40911688245431</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.294449446889,47.1873462947639 -116.294456600911,47.1868064276392 -116.294060644661,47.1868039884502 -116.294053486625,47.1873438555291 -116.294449446889,47.1873462947639</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">124</SimpleData>
+		<SimpleData name="wepp_id">40</SimpleData>
+		<SimpleData name="chn_id">5</SimpleData>
+		<SimpleData name="length(m)">199.705627484771</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">167.399593318811</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">40</SimpleData>
+		<SimpleData name="Dis(m3/ha)">338265.38</SimpleData>
+		<SimpleData name="slope">0.14238497406218</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">124</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">28.05</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.599116882454314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.289697927152,47.1873169336339 -116.289701528273,47.1870470003537 -116.289305570641,47.1870445447215 -116.289301967513,47.1873144779787 -116.289697927152,47.1873169336339</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">154</SimpleData>
+		<SimpleData name="wepp_id">37</SimpleData>
+		<SimpleData name="chn_id">2</SimpleData>
+		<SimpleData name="length(m)">132.426406871193</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">189.747297662731</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">37</SimpleData>
+		<SimpleData name="Dis(m3/ha)">121739.063</SimpleData>
+		<SimpleData name="slope">0.294548006178464</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">154</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">6.78</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.397279220613579</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.288114088908,47.1873071028029 -116.288121307155,47.186767236414 -116.287725351739,47.1867647753316 -116.287718129478,47.1873046416742 -116.288114088908,47.1873071028029</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">54</SimpleData>
+		<SimpleData name="wepp_id">47</SimpleData>
+		<SimpleData name="chn_id">12</SimpleData>
+		<SimpleData name="length(m)">402.426406871193</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">85.8561713088511</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">47</SimpleData>
+		<SimpleData name="Dis(m3/ha)">827357.237</SimpleData>
+		<SimpleData name="slope">0.102507835418217</SimpleData>
+		<SimpleData name="soil">Bouldercreek ashy silt loam, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">54</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">135.92</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">1.20727922061358</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.292869191209,47.1870665961503 -116.292872776222,47.1867966626731 -116.289309173717,47.1867746114513 -116.289305570641,47.1870445447215 -116.292869191209,47.1870665961503</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">44</SimpleData>
+		<SimpleData name="wepp_id">48</SimpleData>
+		<SimpleData name="chn_id">13</SimpleData>
+		<SimpleData name="length(m)">102.426406871193</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">109.629537165161</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">48</SimpleData>
+		<SimpleData name="Dis(m3/ha)">3955969.42</SimpleData>
+		<SimpleData name="slope">0.0917707877968502</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">44</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">166.06</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.307279220613579</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.289305570641,47.1870445447215 -116.289309173717,47.1867746114513 -116.288517262623,47.1867696961281 -116.288513655533,47.1870396293521 -116.289305570641,47.1870445447215</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">54</SimpleData>
+		<SimpleData name="wepp_id">47</SimpleData>
+		<SimpleData name="chn_id">12</SimpleData>
+		<SimpleData name="length(m)">402.426406871193</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">85.8561713088511</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">47</SimpleData>
+		<SimpleData name="Dis(m3/ha)">827357.237</SimpleData>
+		<SimpleData name="slope">0.102507835418217</SimpleData>
+		<SimpleData name="soil">Bouldercreek ashy silt loam, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">54</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">135.92</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">1.20727922061358</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.294456600911,47.1868064276392 -116.294460177844,47.1865364940574 -116.292876361183,47.186526729183 -116.292872776222,47.1867966626731 -116.294456600911,47.1868064276392</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">44</SimpleData>
+		<SimpleData name="wepp_id">48</SimpleData>
+		<SimpleData name="chn_id">13</SimpleData>
+		<SimpleData name="length(m)">102.426406871193</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">109.629537165161</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">48</SimpleData>
+		<SimpleData name="Dis(m3/ha)">3955969.42</SimpleData>
+		<SimpleData name="slope">0.0917707877968502</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">44</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">166.06</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.307279220613579</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.288517262623,47.1867696961281 -116.288520869661,47.1864997628911 -116.2881249162,47.1864973032001 -116.288121307155,47.186767236414 -116.288517262623,47.1867696961281</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">34</SimpleData>
+		<SimpleData name="wepp_id">49</SimpleData>
+		<SimpleData name="chn_id">14</SimpleData>
+		<SimpleData name="length(m)">936.396103067893</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">113.319905552628</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">49</SimpleData>
+		<SimpleData name="Dis(m3/ha)">559520.483</SimpleData>
+		<SimpleData name="slope">0.103403787148748</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">34</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">217.39</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">2.80918830920368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.288121307155,47.186767236414 -116.2881249162,47.1864973032001 -116.287333009434,47.1864923797131 -116.287329396375,47.1867623128808 -116.288121307155,47.186767236414</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">64</SimpleData>
+		<SimpleData name="wepp_id">46</SimpleData>
+		<SimpleData name="chn_id">11</SimpleData>
+		<SimpleData name="length(m)">114.852813742386</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">52.6942948778775</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">46</SimpleData>
+		<SimpleData name="Dis(m3/ha)">2037957.908</SimpleData>
+		<SimpleData name="slope">0.0976306984232259</SimpleData>
+		<SimpleData name="soil">Bouldercreek ashy silt loam, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">64</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">94.35</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.344558441227157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.295252086485,47.1865413682847 -116.295255659352,47.1862714346441 -116.294463754725,47.1862665604626 -116.294460177844,47.1865364940574 -116.295252086485,47.1865413682847</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">34</SimpleData>
+		<SimpleData name="wepp_id">49</SimpleData>
+		<SimpleData name="chn_id">14</SimpleData>
+		<SimpleData name="length(m)">936.396103067893</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">113.319905552628</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">49</SimpleData>
+		<SimpleData name="Dis(m3/ha)">559520.483</SimpleData>
+		<SimpleData name="slope">0.103403787148748</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">34</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">217.39</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">2.80918830920368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.287333009434,47.1864923797131 -116.28733662244,47.1862224465324 -116.285356866478,47.1862101139849 -116.285353243437,47.1864800470499 -116.287333009434,47.1864923797131</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">84</SimpleData>
+		<SimpleData name="wepp_id">44</SimpleData>
+		<SimpleData name="chn_id">9</SimpleData>
+		<SimpleData name="length(m)">739.705627484772</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">85.1988961924476</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">44</SimpleData>
+		<SimpleData name="Dis(m3/ha)">244460.445</SimpleData>
+		<SimpleData name="slope">0.176949720457264</SimpleData>
+		<SimpleData name="soil">Bouldercreek ashy silt loam, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">84</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">71.9</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">2.21911688245431</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.296047564188,47.1862763033524 -116.296051132989,47.1860063696531 -116.295655182552,47.186003936006 -116.295651611744,47.1862738696824 -116.296047564188,47.1862763033524</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">64</SimpleData>
+		<SimpleData name="wepp_id">46</SimpleData>
+		<SimpleData name="chn_id">11</SimpleData>
+		<SimpleData name="length(m)">114.852813742386</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">52.6942948778775</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">46</SimpleData>
+		<SimpleData name="Dis(m3/ha)">2037957.908</SimpleData>
+		<SimpleData name="slope">0.0976306984232259</SimpleData>
+		<SimpleData name="soil">Bouldercreek ashy silt loam, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">64</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">94.35</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.344558441227157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.295651611744,47.1862738696824 -116.295655182552,47.186003936006 -116.295259232168,47.1860015009906 -116.295255659352,47.1862714346441 -116.295651611744,47.1862738696824</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">34</SimpleData>
+		<SimpleData name="wepp_id">49</SimpleData>
+		<SimpleData name="chn_id">14</SimpleData>
+		<SimpleData name="length(m)">936.396103067893</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">113.319905552628</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">49</SimpleData>
+		<SimpleData name="Dis(m3/ha)">559520.483</SimpleData>
+		<SimpleData name="slope">0.103403787148748</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">34</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">217.39</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">2.80918830920368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.285356866478,47.1862101139849 -116.285360489467,47.185940180907 -116.284568591463,47.1859352383563 -116.284564964461,47.1862051713878 -116.285356866478,47.1862101139849</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">84</SimpleData>
+		<SimpleData name="wepp_id">44</SimpleData>
+		<SimpleData name="chn_id">9</SimpleData>
+		<SimpleData name="length(m)">739.705627484772</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">85.1988961924476</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">44</SimpleData>
+		<SimpleData name="Dis(m3/ha)">244460.445</SimpleData>
+		<SimpleData name="slope">0.176949720457264</SimpleData>
+		<SimpleData name="soil">Bouldercreek ashy silt loam, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">84</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">71.9</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">2.21911688245431</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.298030885947,47.1860185173641 -116.298034444662,47.1857485835379 -116.296054701739,47.1857364359409 -116.296051132989,47.1860063696531 -116.298030885947,47.1860185173641</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">34</SimpleData>
+		<SimpleData name="wepp_id">49</SimpleData>
+		<SimpleData name="chn_id">14</SimpleData>
+		<SimpleData name="length(m)">936.396103067893</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">113.319905552628</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">49</SimpleData>
+		<SimpleData name="Dis(m3/ha)">559520.483</SimpleData>
+		<SimpleData name="slope">0.103403787148748</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">34</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">217.39</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">2.80918830920368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.284568591463,47.1859352383563 -116.284572218413,47.1856653053118 -116.284176271497,47.1856628320072 -116.28417264254,47.1859327650285 -116.284568591463,47.1859352383563</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">74</SimpleData>
+		<SimpleData name="wepp_id">45</SimpleData>
+		<SimpleData name="chn_id">10</SimpleData>
+		<SimpleData name="length(m)">294.852813742386</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">353.930181332702</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">45</SimpleData>
+		<SimpleData name="Dis(m3/ha)">114020.844</SimpleData>
+		<SimpleData name="slope">0.156117406299601</SimpleData>
+		<SimpleData name="soil">Bouldercreek ashy silt loam, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">74</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">14.52</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.884558441227157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.296051132989,47.1860063696531 -116.296072544711,47.1843867671851 -116.295676606315,47.184384333675 -116.295655182552,47.186003936006 -116.296051132989,47.1860063696531</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">84</SimpleData>
+		<SimpleData name="wepp_id">44</SimpleData>
+		<SimpleData name="chn_id">9</SimpleData>
+		<SimpleData name="length(m)">739.705627484772</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">85.1988961924476</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">44</SimpleData>
+		<SimpleData name="Dis(m3/ha)">244460.445</SimpleData>
+		<SimpleData name="slope">0.176949720457264</SimpleData>
+		<SimpleData name="soil">Bouldercreek ashy silt loam, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">84</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">71.9</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">2.21911688245431</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.300014188876,47.1857606969274 -116.300017737505,47.1854907629744 -116.298038003326,47.1854786496986 -116.298034444662,47.1857485835379 -116.300014188876,47.1857606969274</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">34</SimpleData>
+		<SimpleData name="wepp_id">49</SimpleData>
+		<SimpleData name="chn_id">14</SimpleData>
+		<SimpleData name="length(m)">936.396103067893</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">113.319905552628</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">49</SimpleData>
+		<SimpleData name="Dis(m3/ha)">559520.483</SimpleData>
+		<SimpleData name="slope">0.103403787148748</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">34</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">217.39</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">2.80918830920368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.284176271497,47.1856628320072 -116.284179900401,47.1853928989729 -116.283388010741,47.1853879483053 -116.283384377823,47.1856578812932 -116.284176271497,47.1856628320072</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">84</SimpleData>
+		<SimpleData name="wepp_id">44</SimpleData>
+		<SimpleData name="chn_id">9</SimpleData>
+		<SimpleData name="length(m)">739.705627484772</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">85.1988961924476</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">44</SimpleData>
+		<SimpleData name="Dis(m3/ha)">244460.445</SimpleData>
+		<SimpleData name="slope">0.176949720457264</SimpleData>
+		<SimpleData name="soil">Bouldercreek ashy silt loam, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">84</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">71.9</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">2.21911688245431</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.300809631538,47.1854955987068 -116.300813176102,47.1852256646955 -116.300021286083,47.1852208290085 -116.300017737505,47.1854907629744 -116.300809631538,47.1854955987068</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">34</SimpleData>
+		<SimpleData name="wepp_id">49</SimpleData>
+		<SimpleData name="chn_id">14</SimpleData>
+		<SimpleData name="length(m)">936.396103067893</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">113.319905552628</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">49</SimpleData>
+		<SimpleData name="Dis(m3/ha)">559520.483</SimpleData>
+		<SimpleData name="slope">0.103403787148748</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">34</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">217.39</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">2.80918830920368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.283388010741,47.1853879483053 -116.283391643606,47.1851180153045 -116.282995700862,47.1851155379416 -116.28299206599,47.1853854709192 -116.283388010741,47.1853879483053</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">104</SimpleData>
+		<SimpleData name="wepp_id">42</SimpleData>
+		<SimpleData name="chn_id">7</SimpleData>
+		<SimpleData name="length(m)">60</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">113.5</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">42</SimpleData>
+		<SimpleData name="Dis(m3/ha)">229942.778</SimpleData>
+		<SimpleData name="slope">0.25</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">104</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">5.05</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.305564520523,47.185254563882 -116.305568040954,47.1849846295864 -116.304776153718,47.1849798267832 -116.304772629274,47.1852497610337 -116.305564520523,47.185254563882</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">84</SimpleData>
+		<SimpleData name="wepp_id">44</SimpleData>
+		<SimpleData name="chn_id">9</SimpleData>
+		<SimpleData name="length(m)">739.705627484772</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">85.1988961924476</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">44</SimpleData>
+		<SimpleData name="Dis(m3/ha)">244460.445</SimpleData>
+		<SimpleData name="slope">0.176949720457264</SimpleData>
+		<SimpleData name="soil">Bouldercreek ashy silt loam, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">84</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">71.9</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">2.21911688245431</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.304772629274,47.1852497610337 -116.304776153718,47.1849798267832 -116.300816720614,47.1849557306712 -116.300813176102,47.1852256646955 -116.304772629274,47.1852497610337</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">34</SimpleData>
+		<SimpleData name="wepp_id">49</SimpleData>
+		<SimpleData name="chn_id">14</SimpleData>
+		<SimpleData name="length(m)">936.396103067893</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">113.319905552628</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">49</SimpleData>
+		<SimpleData name="Dis(m3/ha)">559520.483</SimpleData>
+		<SimpleData name="slope">0.103403787148748</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">34</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">217.39</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">2.80918830920368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.282995700862,47.1851155379416 -116.282999335681,47.1848456049511 -116.282603394996,47.1848431262432 -116.28259975817,47.1851130592104 -116.282995700862,47.1851155379416</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">94</SimpleData>
+		<SimpleData name="wepp_id">43</SimpleData>
+		<SimpleData name="chn_id">8</SimpleData>
+		<SimpleData name="length(m)">446.98484809835</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">51.3697759203104</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">43</SimpleData>
+		<SimpleData name="Dis(m3/ha)">142554.646</SimpleData>
+		<SimpleData name="slope">0.145605438869429</SimpleData>
+		<SimpleData name="soil">Bouldercreek ashy silt loam, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">94</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">26.1</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">1.34095454429505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.305172097311,47.1849822288689 -116.305175619697,47.1847122945829 -116.304779678111,47.1847098925197 -116.304776153718,47.1849798267832 -116.305172097311,47.1849822288689</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">34</SimpleData>
+		<SimpleData name="wepp_id">49</SimpleData>
+		<SimpleData name="chn_id">14</SimpleData>
+		<SimpleData name="length(m)">936.396103067893</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">113.319905552628</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">49</SimpleData>
+		<SimpleData name="Dis(m3/ha)">559520.483</SimpleData>
+		<SimpleData name="slope">0.103403787148748</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">34</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">217.39</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">2.80918830920368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.282603394996,47.1848431262432 -116.282607031769,47.1845731932629 -116.282211093144,47.18457071321 -116.282207454364,47.184840646167 -116.282603394996,47.1848431262432</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">94</SimpleData>
+		<SimpleData name="wepp_id">43</SimpleData>
+		<SimpleData name="chn_id">8</SimpleData>
+		<SimpleData name="length(m)">446.98484809835</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">51.3697759203104</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">43</SimpleData>
+		<SimpleData name="Dis(m3/ha)">142554.646</SimpleData>
+		<SimpleData name="slope">0.145605438869429</SimpleData>
+		<SimpleData name="soil">Bouldercreek ashy silt loam, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">94</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">26.1</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">1.34095454429505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.305571561333,47.1847146952779 -116.305575081661,47.1844447609564 -116.305179142032,47.1844423602839 -116.305175619697,47.1847122945829 -116.305571561333,47.1847146952779</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">34</SimpleData>
+		<SimpleData name="wepp_id">49</SimpleData>
+		<SimpleData name="chn_id">14</SimpleData>
+		<SimpleData name="length(m)">936.396103067893</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">113.319905552628</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">49</SimpleData>
+		<SimpleData name="Dis(m3/ha)">559520.483</SimpleData>
+		<SimpleData name="slope">0.103403787148748</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">34</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">217.39</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">2.80918830920368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.282211093144,47.18457071321 -116.282214731871,47.18430078024 -116.281818795305,47.1842982988422 -116.281815154571,47.1845682317889 -116.282211093144,47.18457071321</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">94</SimpleData>
+		<SimpleData name="wepp_id">43</SimpleData>
+		<SimpleData name="chn_id">8</SimpleData>
+		<SimpleData name="length(m)">446.98484809835</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">51.3697759203104</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">43</SimpleData>
+		<SimpleData name="Dis(m3/ha)">142554.646</SimpleData>
+		<SimpleData name="slope">0.145605438869429</SimpleData>
+		<SimpleData name="soil">Bouldercreek ashy silt loam, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">94</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">26.1</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">1.34095454429505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.305971021342,47.1844471602605 -116.305974539612,47.1841772259035 -116.305578601938,47.1841748266219 -116.305575081661,47.1844447609564 -116.305971021342,47.1844471602605</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">74</SimpleData>
+		<SimpleData name="wepp_id">45</SimpleData>
+		<SimpleData name="chn_id">10</SimpleData>
+		<SimpleData name="length(m)">294.852813742386</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">353.930181332702</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">45</SimpleData>
+		<SimpleData name="Dis(m3/ha)">114020.844</SimpleData>
+		<SimpleData name="slope">0.156117406299601</SimpleData>
+		<SimpleData name="soil">Bouldercreek ashy silt loam, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">74</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">14.52</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.884558441227157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.295676606315,47.184384333675 -116.295687317497,47.1835745323342 -116.295291385174,47.1835720975245 -116.295280667971,47.1843818987968 -116.295676606315,47.184384333675</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">34</SimpleData>
+		<SimpleData name="wepp_id">49</SimpleData>
+		<SimpleData name="chn_id">14</SimpleData>
+		<SimpleData name="length(m)">936.396103067893</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">113.319905552628</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">49</SimpleData>
+		<SimpleData name="Dis(m3/ha)">559520.483</SimpleData>
+		<SimpleData name="slope">0.103403787148748</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">34</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">217.39</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">2.80918830920368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.281818795305,47.1842982988422 -116.281826076615,47.1837584329098 -116.281430144115,47.1837559501904 -116.281422858792,47.1842958160762 -116.281818795305,47.1842982988422</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">94</SimpleData>
+		<SimpleData name="wepp_id">43</SimpleData>
+		<SimpleData name="chn_id">8</SimpleData>
+		<SimpleData name="length(m)">446.98484809835</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">51.3697759203104</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">43</SimpleData>
+		<SimpleData name="Dis(m3/ha)">142554.646</SimpleData>
+		<SimpleData name="slope">0.145605438869429</SimpleData>
+		<SimpleData name="soil">Bouldercreek ashy silt loam, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">94</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">26.1</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">1.34095454429505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.306766415113,47.1841820203621 -116.306769929319,47.1839120859471 -116.305978057832,47.1839072915335 -116.305974539612,47.1841772259035 -116.306766415113,47.1841820203621</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">94</SimpleData>
+		<SimpleData name="wepp_id">43</SimpleData>
+		<SimpleData name="chn_id">8</SimpleData>
+		<SimpleData name="length(m)">446.98484809835</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">51.3697759203104</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">43</SimpleData>
+		<SimpleData name="Dis(m3/ha)">142554.646</SimpleData>
+		<SimpleData name="slope">0.145605438869429</SimpleData>
+		<SimpleData name="soil">Bouldercreek ashy silt loam, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">94</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">26.1</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">1.34095454429505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.30756180101,47.1839168748879 -116.307565311151,47.1836469404149 -116.306773443474,47.1836421515191 -116.306769929319,47.1839120859471 -116.30756180101,47.1839168748879</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">34</SimpleData>
+		<SimpleData name="wepp_id">49</SimpleData>
+		<SimpleData name="chn_id">14</SimpleData>
+		<SimpleData name="length(m)">936.396103067893</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">113.319905552628</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">49</SimpleData>
+		<SimpleData name="Dis(m3/ha)">559520.483</SimpleData>
+		<SimpleData name="slope">0.103403787148748</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">34</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">217.39</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">2.80918830920368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.281430144115,47.1837559501904 -116.281433786697,47.183486017228 -116.281037856257,47.1834835331638 -116.281034211668,47.1837534661028 -116.281430144115,47.1837559501904</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">164</SimpleData>
+		<SimpleData name="wepp_id">36</SimpleData>
+		<SimpleData name="chn_id">1</SimpleData>
+		<SimpleData name="length(m)">234.852813742386</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">187.633215743038</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">36</SimpleData>
+		<SimpleData name="Dis(m3/ha)">53374.99</SimpleData>
+		<SimpleData name="slope">0.259005783846725</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">164</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">5.54</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.704558441227157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.279443177021,47.184283381723 -116.279465092554,47.18266378461 -116.279069168398,47.182661293775 -116.279047240825,47.1842808907477 -116.279443177021,47.184283381723</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">94</SimpleData>
+		<SimpleData name="wepp_id">43</SimpleData>
+		<SimpleData name="chn_id">8</SimpleData>
+		<SimpleData name="length(m)">446.98484809835</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">51.3697759203104</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">43</SimpleData>
+		<SimpleData name="Dis(m3/ha)">142554.646</SimpleData>
+		<SimpleData name="slope">0.145605438869429</SimpleData>
+		<SimpleData name="soil">Bouldercreek ashy silt loam, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">94</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">26.1</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">1.34095454429505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.308357179033,47.1836517238379 -116.30836068511,47.1833817893071 -116.307568821242,47.183377005929 -116.307565311151,47.1836469404149 -116.308357179033,47.1836517238379</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">34</SimpleData>
+		<SimpleData name="wepp_id">49</SimpleData>
+		<SimpleData name="chn_id">14</SimpleData>
+		<SimpleData name="length(m)">936.396103067893</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">113.319905552628</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">49</SimpleData>
+		<SimpleData name="Dis(m3/ha)">559520.483</SimpleData>
+		<SimpleData name="slope">0.103403787148748</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">34</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">217.39</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">2.80918830920368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.281037856257,47.1834835331638 -116.281041500793,47.1832136002117 -116.280645572412,47.1832111148026 -116.28064192587,47.1834810477313 -116.281037856257,47.1834835331638</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">94</SimpleData>
+		<SimpleData name="wepp_id">43</SimpleData>
+		<SimpleData name="chn_id">8</SimpleData>
+		<SimpleData name="length(m)">446.98484809835</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">51.3697759203104</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">43</SimpleData>
+		<SimpleData name="Dis(m3/ha)">142554.646</SimpleData>
+		<SimpleData name="slope">0.145605438869429</SimpleData>
+		<SimpleData name="soil">Bouldercreek ashy silt loam, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">94</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">26.1</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">1.34095454429505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.309548481293,47.1833889541128 -116.3095519813,47.1831190195017 -116.308364191136,47.1831118547633 -116.30836068511,47.1833817893071 -116.309548481293,47.1833889541128</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">34</SimpleData>
+		<SimpleData name="wepp_id">49</SimpleData>
+		<SimpleData name="chn_id">14</SimpleData>
+		<SimpleData name="length(m)">936.396103067893</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">113.319905552628</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">49</SimpleData>
+		<SimpleData name="Dis(m3/ha)">559520.483</SimpleData>
+		<SimpleData name="slope">0.103403787148748</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">34</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">217.39</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">2.80918830920368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.280645572412,47.1832111148026 -116.280649218902,47.1829411818609 -116.279857366313,47.1829362069849 -116.27985371581,47.1832061398799 -116.280645572412,47.1832111148026</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">34</SimpleData>
+		<SimpleData name="wepp_id">49</SimpleData>
+		<SimpleData name="chn_id">14</SimpleData>
+		<SimpleData name="length(m)">936.396103067893</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">113.319905552628</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">49</SimpleData>
+		<SimpleData name="Dis(m3/ha)">559520.483</SimpleData>
+		<SimpleData name="slope">0.103403787148748</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">34</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">217.39</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">2.80918830920368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.279857366313,47.1829362069849 -116.279861016762,47.1826662740769 -116.279465092554,47.18266378461 -116.279461440097,47.1829337174947 -116.279857366313,47.1829362069849</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">34</SimpleData>
+		<SimpleData name="wepp_id">49</SimpleData>
+		<SimpleData name="chn_id">14</SimpleData>
+		<SimpleData name="length(m)">936.396103067893</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">113.319905552628</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">49</SimpleData>
+		<SimpleData name="Dis(m3/ha)">559520.483</SimpleData>
+		<SimpleData name="slope">0.103403787148748</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">34</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">217.39</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">2.80918830920368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.279465092554,47.18266378461 -116.279468744957,47.1823938517124 -116.279072822808,47.1823913609008 -116.279069168398,47.182661293775 -116.279465092554,47.18266378461</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">164</SimpleData>
+		<SimpleData name="wepp_id">36</SimpleData>
+		<SimpleData name="chn_id">1</SimpleData>
+		<SimpleData name="length(m)">234.852813742386</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">187.633215743038</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">36</SimpleData>
+		<SimpleData name="Dis(m3/ha)">53374.99</SimpleData>
+		<SimpleData name="slope">0.259005783846725</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">164</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">5.54</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.704558441227157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.279069168398,47.182661293775 -116.279072822808,47.1823913609008 -116.278676900712,47.182388868721 -116.278673244295,47.1826588015719 -116.279069168398,47.182661293775</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">34</SimpleData>
+		<SimpleData name="wepp_id">49</SimpleData>
+		<SimpleData name="chn_id">14</SimpleData>
+		<SimpleData name="length(m)">936.396103067893</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">113.319905552628</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">49</SimpleData>
+		<SimpleData name="Dis(m3/ha)">559520.483</SimpleData>
+		<SimpleData name="slope">0.103403787148748</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">34</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">217.39</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">2.80918830920368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.279072822808,47.1823913609008 -116.279076477165,47.1821214280135 -116.278680557075,47.1821189358572 -116.278676900712,47.182388868721 -116.279072822808,47.1823913609008</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">24</SimpleData>
+		<SimpleData name="wepp_id">50</SimpleData>
+		<SimpleData name="chn_id">15</SimpleData>
+		<SimpleData name="length(m)">84.8528137423857</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">137.5</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">50</SimpleData>
+		<SimpleData name="Dis(m3/ha)">6346458.174</SimpleData>
+		<SimpleData name="slope">0.10607</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">24</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">223.83</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.254558441227157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.278676900712,47.182388868721 -116.278680557075,47.1821189358572 -116.278284637038,47.1821164423327 -116.278280978668,47.1823863751732 -116.278676900712,47.182388868721</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SUBWTA">
+		<SimpleData name="topaz_id">24</SimpleData>
+		<SimpleData name="wepp_id">50</SimpleData>
+		<SimpleData name="chn_id">15</SimpleData>
+		<SimpleData name="length(m)">84.8528137423857</SimpleData>
+		<SimpleData name="width(m)">30</SimpleData>
+		<SimpleData name="aspect">137.5</SimpleData>
+		<SimpleData name="SRP(kg/ha)">0</SimpleData>
+		<SimpleData name="SlLs(kg/h)">0</SimpleData>
+		<SimpleData name="WeppID">50</SimpleData>
+		<SimpleData name="Dis(m3/ha)">6346458.174</SimpleData>
+		<SimpleData name="slope">0.10607</SimpleData>
+		<SimpleData name="soil">Bouldercreek-Marblecreek association, 35 to 65 percent slopes (SPM)</SimpleData>
+		<SimpleData name="watershed"></SimpleData>
+		<SimpleData name="TP(kg/ha)">0</SimpleData>
+		<SimpleData name="landuse">Evergreen Forest</SimpleData>
+		<SimpleData name="TopazID">24</SimpleData>
+		<SimpleData name="SdYd(tn/h)">0</SimpleData>
+		<SimpleData name="cntrb(ha)">223.83</SimpleData>
+		<SimpleData name="PP(kg/ha)">0</SimpleData>
+		<SimpleData name="area(ha)">0.254558441227157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-116.278284637038,47.1821164423327 -116.278288295355,47.1818465094793 -116.277892377378,47.1818440146101 -116.277888717055,47.1821139474402 -116.278284637038,47.1821164423327</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

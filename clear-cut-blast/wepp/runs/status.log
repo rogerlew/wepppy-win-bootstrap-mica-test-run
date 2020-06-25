@@ -1,0 +1,78 @@
+[2020-06-17T17:01:19.034429] Prepping Hillslopes... done. (10.92s | 10.92s)
+[2020-06-17T17:01:29.952061] Running Hillslopes
+[2020-06-17T17:01:30.215887]   submitting topaz=133 (hill 1 of 35)
+[2020-06-17T17:01:30.218767]   submitting topaz=23 (hill 2 of 35)
+[2020-06-17T17:01:30.220985]   submitting topaz=141 (hill 3 of 35)
+[2020-06-17T17:01:30.245246]   submitting topaz=73 (hill 4 of 35)
+[2020-06-17T17:01:30.295959]   submitting topaz=42 (hill 5 of 35)
+[2020-06-17T17:01:30.320943]   submitting topaz=91 (hill 6 of 35)
+[2020-06-17T17:01:30.365620]   submitting topaz=132 (hill 7 of 35)
+[2020-06-17T17:01:30.428762]   submitting topaz=161 (hill 8 of 35)
+[2020-06-17T17:01:30.471775]   submitting topaz=83 (hill 9 of 35)
+[2020-06-17T17:01:30.487137]   submitting topaz=82 (hill 10 of 35)
+[2020-06-17T17:01:30.508103]   submitting topaz=123 (hill 11 of 35)
+[2020-06-17T17:01:30.576896]   submitting topaz=71 (hill 12 of 35)
+[2020-06-17T17:01:30.629019]   submitting topaz=22 (hill 13 of 35)
+[2020-06-17T17:01:30.674910]   submitting topaz=151 (hill 14 of 35)
+[2020-06-17T17:01:30.699074]   submitting topaz=72 (hill 15 of 35)
+[2020-06-17T17:01:30.721225]   submitting topaz=33 (hill 16 of 35)
+[2020-06-17T17:01:30.765718]   submitting topaz=113 (hill 17 of 35)
+[2020-06-17T17:01:30.795354]   submitting topaz=101 (hill 18 of 35)
+[2020-06-17T17:01:30.904258]   submitting topaz=43 (hill 19 of 35)
+[2020-06-17T17:01:30.962521]   submitting topaz=93 (hill 20 of 35)
+[2020-06-17T17:01:31.156801]   submitting topaz=131 (hill 21 of 35)
+[2020-06-17T17:01:31.222087]   submitting topaz=92 (hill 22 of 35)
+[2020-06-17T17:01:31.303257]   submitting topaz=143 (hill 23 of 35)
+[2020-06-17T17:01:31.365749]   submitting topaz=53 (hill 24 of 35)
+[2020-06-17T17:01:31.454658]   submitting topaz=163 (hill 25 of 35)
+[2020-06-17T17:01:31.512559]   submitting topaz=122 (hill 26 of 35)
+[2020-06-17T17:01:31.594312]   submitting topaz=52 (hill 27 of 35)
+[2020-06-17T17:01:31.680020]   submitting topaz=103 (hill 28 of 35)
+[2020-06-17T17:01:31.734082]   submitting topaz=152 (hill 29 of 35)
+[2020-06-17T17:01:31.782427]   submitting topaz=62 (hill 30 of 35)
+[2020-06-17T17:01:31.831492]   submitting topaz=153 (hill 31 of 35)
+[2020-06-17T17:01:31.855707]   submitting topaz=63 (hill 32 of 35)
+[2020-06-17T17:01:31.904489]   submitting topaz=111 (hill 33 of 35)
+[2020-06-17T17:01:31.922675]   submitting topaz=32 (hill 34 of 35)
+[2020-06-17T17:01:31.971574]   submitting topaz=112 (hill 35 of 35)
+[2020-06-17T17:01:32.066468]   28 completed run in 1.8427987098693848s
+[2020-06-17T17:01:32.964813]   5 completed run in 2.643617630004883s
+[2020-06-17T17:01:33.689356]   2 completed run in 3.467926025390625s
+[2020-06-17T17:01:34.003501]   13 completed run in 3.707145929336548s
+[2020-06-17T17:01:34.268271]   29 completed run in 4.022572994232178s
+[2020-06-17T17:01:34.965100]   16 completed run in 4.599223375320435s
+[2020-06-17T17:01:35.060250]   27 completed run in 4.631304740905762s
+[2020-06-17T17:01:36.279152]   34 completed run in 5.57261061668396s
+[2020-06-17T17:01:36.624713]   14 completed run in 6.063971281051636s
+[2020-06-17T17:01:36.759257]   15 completed run in 6.2675933837890625s
+[2020-06-17T17:01:37.087764]   1 completed run in 6.412617206573486s
+[2020-06-17T17:01:37.239358]   17 completed run in 5.894243955612183s
+[2020-06-17T17:01:37.265913]   25 completed run in 6.688892364501953s
+[2020-06-17T17:01:37.802103]   19 completed run in 6.828319072723389s
+[2020-06-17T17:01:39.126119]   4 completed run in 8.350228786468506s
+[2020-06-17T17:01:39.261425]   26 completed run in 8.039273262023926s
+[2020-06-17T17:01:39.781409]   11 completed run in 8.934130668640137s
+[2020-06-17T17:01:40.502016]   32 completed run in 8.318826675415039s
+[2020-06-17T17:01:40.589663]   20 completed run in 8.783898830413818s
+[2020-06-17T17:01:40.591751]   30 completed run in 9.153536081314087s
+[2020-06-17T17:01:41.065837]   12 completed run in 10.164354085922241s
+[2020-06-17T17:01:41.072524]   24 completed run in 9.300999641418457s
+[2020-06-17T17:01:41.184535]   18 completed run in 9.84528374671936s
+[2020-06-17T17:01:41.157972]   35 completed run in 9.476619243621826s
+[2020-06-17T17:01:41.258297]   23 completed run in 10.395872592926025s
+[2020-06-17T17:01:41.289241]   8 completed run in 9.77301287651062s
+[2020-06-17T17:01:41.289646]   31 completed run in 10.52866268157959s
+[2020-06-17T17:01:41.287884]   7 completed run in 9.539579153060913s
+[2020-06-17T17:01:41.288159]   6 completed run in 10.257948637008667s
+[2020-06-17T17:01:41.326865]   9 completed run in 8.287447929382324s
+[2020-06-17T17:01:41.329713]   10 completed run in 7.302039861679077s
+[2020-06-17T17:01:41.345968]   21 completed run in 7.074960470199585s
+[2020-06-17T17:01:41.335919]   3 completed run in 6.36848521232605s
+[2020-06-17T17:01:41.343560]   33 completed run in 7.6508238315582275s
+[2020-06-17T17:01:41.348037]   22 completed run in 6.2851786613464355s
+[2020-06-17T17:01:41.351202] Prepping Watershed... done. (2.15s | 24.46s)
+[2020-06-17T17:01:43.532139] Running Watershed... done. (23.54s | 48.04s)
+[2020-06-17T17:02:07.081449] Building totalsedwat.txt... done. (22.91s | 70.96s)
+[2020-06-17T17:02:29.991816] Running WeppPost... done. (0.54s | 71.49s)
+[2020-06-17T17:02:30.529449] Calculating hill streamflow measures... done. (0.23s | 71.72s)
+[2020-06-17T17:02:30.762803] Calculating channel streamflow measures... done. (1.22s | 72.95s)

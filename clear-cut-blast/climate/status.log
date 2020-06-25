@@ -1,0 +1,121 @@
+[2020-06-17T15:58:03.425750]   running _build_climate_observed (watershed)... 
+[2020-06-17T15:58:03.595489]   fetching daymet/prcp for year 1990... done. (3.80s | 3.97s)
+[2020-06-17T15:58:07.395953]   fetching daymet/prcp for year 1991... done. (3.74s | 7.71s)
+[2020-06-17T15:58:11.167653]   fetching daymet/prcp for year 1992... done. (3.77s | 11.51s)
+[2020-06-17T15:58:14.953350]   fetching daymet/prcp for year 1993... done. (3.87s | 15.40s)
+[2020-06-17T15:58:18.894356]   fetching daymet/prcp for year 1994... done. (5.51s | 20.97s)
+[2020-06-17T15:58:24.421924]   fetching daymet/prcp for year 1995... done. (3.81s | 24.81s)
+[2020-06-17T15:58:28.237609]   fetching daymet/prcp for year 1996... done. (3.77s | 28.58s)
+[2020-06-17T15:58:32.008301]   fetching daymet/prcp for year 1997... done. (3.74s | 32.33s)
+[2020-06-17T15:58:35.789947]   fetching daymet/prcp for year 1998... done. (3.99s | 36.35s)
+[2020-06-17T15:58:39.809603]   fetching daymet/prcp for year 1999... done. (3.84s | 40.22s)
+[2020-06-17T15:58:43.674645]   fetching daymet/prcp for year 2000... done. (3.73s | 43.98s)
+[2020-06-17T15:58:47.422492]   fetching daymet/prcp for year 2001... done. (3.78s | 47.77s)
+[2020-06-17T15:58:51.254536]   fetching daymet/prcp for year 2002... done. (3.71s | 51.54s)
+[2020-06-17T15:58:54.970373]   fetching daymet/prcp for year 2003... done. (3.68s | 55.23s)
+[2020-06-17T15:58:58.653228]   fetching daymet/prcp for year 2004... done. (3.79s | 59.02s)
+[2020-06-17T15:59:02.478726]   fetching daymet/prcp for year 2005... done. (3.82s | 62.88s)
+[2020-06-17T15:59:06.304503]   fetching daymet/prcp for year 2006... done. (3.77s | 66.65s)
+[2020-06-17T15:59:10.123352]   fetching daymet/prcp for year 2007... done. (3.87s | 70.57s)
+[2020-06-17T15:59:14.050650]   fetching daymet/prcp for year 2008... done. (3.80s | 74.42s)
+[2020-06-17T15:59:17.849401]   fetching daymet/prcp for year 2009... done. (3.77s | 78.20s)
+[2020-06-17T15:59:21.653315]   fetching daymet/prcp for year 2010... done. (3.85s | 82.08s)
+[2020-06-17T15:59:25.505198]   fetching daymet/prcp for year 2011... done. (4.01s | 86.09s)
+[2020-06-17T15:59:29.543187]   fetching daymet/prcp for year 2012... done. (3.86s | 89.97s)
+[2020-06-17T15:59:33.401347]   fetching daymet/prcp for year 2013... done. (3.73s | 93.70s)
+[2020-06-17T15:59:37.150176]   fetching daymet/prcp for year 2014... done. (3.82s | 97.54s)
+[2020-06-17T15:59:40.967058]   fetching daymet/prcp for year 2015... done. (3.76s | 101.30s)
+[2020-06-17T15:59:44.750381]   fetching daymet/prcp for year 2016... done. (3.87s | 105.20s)
+[2020-06-17T15:59:48.624901]   fetching daymet/prcp for year 2017... done. (3.82s | 109.02s)
+[2020-06-17T15:59:52.465850]   fetching daymet/tmin for year 1990... done. (4.65s | 113.69s)
+[2020-06-17T15:59:57.116485]   fetching daymet/tmin for year 1991... done. (4.55s | 118.24s)
+[2020-06-17T16:00:01.670496]   fetching daymet/tmin for year 1992... done. (4.44s | 122.69s)
+[2020-06-17T16:00:06.135098]   fetching daymet/tmin for year 1993... done. (4.63s | 127.34s)
+[2020-06-17T16:00:10.785769]   fetching daymet/tmin for year 1994... done. (4.62s | 131.98s)
+[2020-06-17T16:00:15.435761]   fetching daymet/tmin for year 1995... done. (4.68s | 136.69s)
+[2020-06-17T16:00:20.132149]   fetching daymet/tmin for year 1996... done. (4.51s | 141.22s)
+[2020-06-17T16:00:24.646612]   fetching daymet/tmin for year 1997... done. (4.55s | 145.77s)
+[2020-06-17T16:00:29.217446]   fetching daymet/tmin for year 1998... done. (4.54s | 150.33s)
+[2020-06-17T16:00:33.755945]   fetching daymet/tmin for year 1999... done. (4.39s | 154.72s)
+[2020-06-17T16:00:38.151470]   fetching daymet/tmin for year 2000... done. (4.25s | 158.97s)
+[2020-06-17T16:00:42.401580]   fetching daymet/tmin for year 2001... done. (4.35s | 163.33s)
+[2020-06-17T16:00:46.811738]   fetching daymet/tmin for year 2002... done. (4.60s | 167.98s)
+[2020-06-17T16:00:51.439770]   fetching daymet/tmin for year 2003... done. (4.42s | 172.44s)
+[2020-06-17T16:00:55.874238]   fetching daymet/tmin for year 2004... done. (4.32s | 176.76s)
+[2020-06-17T16:01:00.206014]   fetching daymet/tmin for year 2005... done. (4.22s | 181.00s)
+[2020-06-17T16:01:04.427317]   fetching daymet/tmin for year 2006... done. (4.34s | 185.35s)
+[2020-06-17T16:01:08.841797]   fetching daymet/tmin for year 2007... done. (4.39s | 189.80s)
+[2020-06-17T16:01:13.278224]   fetching daymet/tmin for year 2008... done. (4.31s | 194.16s)
+[2020-06-17T16:01:17.600852]   fetching daymet/tmin for year 2009... done. (4.29s | 198.46s)
+[2020-06-17T16:01:21.896182]   fetching daymet/tmin for year 2010... done. (4.32s | 202.79s)
+[2020-06-17T16:01:26.229420]   fetching daymet/tmin for year 2011... done. (4.46s | 207.26s)
+[2020-06-17T16:01:30.713309]   fetching daymet/tmin for year 2012... done. (4.48s | 211.77s)
+[2020-06-17T16:01:35.204396]   fetching daymet/tmin for year 2013... done. (4.12s | 215.90s)
+[2020-06-17T16:01:39.327659]   fetching daymet/tmin for year 2014... done. (4.15s | 220.05s)
+[2020-06-17T16:01:43.479963]   fetching daymet/tmin for year 2015... done. (4.14s | 224.19s)
+[2020-06-17T16:01:47.661630]   fetching daymet/tmin for year 2016... done. (4.40s | 228.64s)
+[2020-06-17T16:01:52.085336]   fetching daymet/tmin for year 2017... done. (4.29s | 232.95s)
+[2020-06-17T16:01:56.432245]   fetching daymet/tmax for year 1990... done. (5.19s | 238.20s)
+[2020-06-17T16:02:01.624759]   fetching daymet/tmax for year 1991... done. (5.25s | 243.45s)
+[2020-06-17T16:02:06.903184]   fetching daymet/tmax for year 1992... done. (5.20s | 248.67s)
+[2020-06-17T16:02:12.132881]   fetching daymet/tmax for year 1993... done. (5.15s | 253.86s)
+[2020-06-17T16:02:17.323449]   fetching daymet/tmax for year 1994... done. (5.24s | 259.14s)
+[2020-06-17T16:02:22.584895]   fetching daymet/tmax for year 1995... done. (5.13s | 264.29s)
+[2020-06-17T16:02:27.713757]   fetching daymet/tmax for year 1996... done. (5.06s | 269.35s)
+[2020-06-17T16:02:32.826137]   fetching daymet/tmax for year 1997... done. (5.13s | 274.53s)
+[2020-06-17T16:02:37.980500]   fetching daymet/tmax for year 1998... done. (5.19s | 279.74s)
+[2020-06-17T16:02:43.171907]   fetching daymet/tmax for year 1999... done. (5.10s | 284.85s)
+[2020-06-17T16:02:48.273538]   fetching daymet/tmax for year 2000... done. (5.07s | 289.92s)
+[2020-06-17T16:02:53.397908]   fetching daymet/tmax for year 2001... done. (5.06s | 295.03s)
+[2020-06-17T16:02:58.458203]   fetching daymet/tmax for year 2002... done. (5.00s | 300.04s)
+[2020-06-17T16:03:03.463176]   fetching daymet/tmax for year 2003... done. (5.09s | 305.12s)
+[2020-06-17T16:03:08.550970]   fetching daymet/tmax for year 2004... done. (4.93s | 310.05s)
+[2020-06-17T16:03:13.480436]   fetching daymet/tmax for year 2005... done. (4.85s | 314.90s)
+[2020-06-17T16:03:18.329791]   fetching daymet/tmax for year 2006... done. (4.96s | 319.86s)
+[2020-06-17T16:03:23.321908]   fetching daymet/tmax for year 2007... done. (5.03s | 324.93s)
+[2020-06-17T16:03:28.357483]   fetching daymet/tmax for year 2008... done. (4.92s | 329.85s)
+[2020-06-17T16:03:33.278639]   fetching daymet/tmax for year 2009... done. (5.00s | 334.86s)
+[2020-06-17T16:03:38.297233]   fetching daymet/tmax for year 2010... done. (4.95s | 339.83s)
+[2020-06-17T16:03:43.253069]   fetching daymet/tmax for year 2011... done. (4.94s | 344.76s)
+[2020-06-17T16:03:48.191939]   fetching daymet/tmax for year 2012... done. (5.11s | 349.88s)
+[2020-06-17T16:03:53.303439]   fetching daymet/tmax for year 2013... done. (4.99s | 354.86s)
+[2020-06-17T16:03:58.332543]   fetching daymet/tmax for year 2014... done. (5.20s | 360.11s)
+[2020-06-17T16:04:03.539335]   fetching daymet/tmax for year 2015... done. (4.95s | 365.06s)
+[2020-06-17T16:04:08.492650]   fetching daymet/tmax for year 2016... done. (4.94s | 370.00s)
+[2020-06-17T16:04:13.429329]   fetching daymet/tmax for year 2017... done. (4.90s | 374.90s)
+[2020-06-17T16:04:18.329559]   building wepp.cli... done. (12.06s | 386.96s)
+[2020-06-17T16:04:44.295823]   done running 93_id108062.cli
+[2020-06-17T16:04:44.388743]   done running 153_id108062.cli
+[2020-06-17T16:04:44.403720]   done running 91_id108062.cli
+[2020-06-17T16:04:44.475190]   done running 33_id108062.cli
+[2020-06-17T16:04:44.500020]   done running 132_id108062.cli
+[2020-06-17T16:04:44.532153]   done running 53_id108062.cli
+[2020-06-17T16:04:44.550459]   done running 103_id108062.cli
+[2020-06-17T16:04:44.574623]   done running 32_id108062.cli
+[2020-06-17T16:04:44.696165]   done running 71_id108062.cli
+[2020-06-17T16:04:44.730496]   done running 113_id108062.cli
+[2020-06-17T16:04:44.758300]   done running 152_id108062.cli
+[2020-06-17T16:04:44.849620]   done running 122_id108062.cli
+[2020-06-17T16:04:45.008505]   done running 151_id108062.cli
+[2020-06-17T16:04:45.193436]   done running 143_id108062.cli
+[2020-06-17T16:04:45.201935]   done running 163_id108062.cli
+[2020-06-17T16:04:45.241573]   done running 62_id108062.cli
+[2020-06-17T16:04:45.243441]   done running 131_id108062.cli
+[2020-06-17T16:04:45.492910]   done running 23_id108062.cli
+[2020-06-17T16:04:45.518356]   done running 92_id108062.cli
+[2020-06-17T16:04:45.565276]   done running 161_id108062.cli
+[2020-06-17T16:04:45.811124]   done running 133_id108062.cli
+[2020-06-17T16:04:45.968975]   done running 52_id108062.cli
+[2020-06-17T16:04:45.971165]   done running 73_id108062.cli
+[2020-06-17T16:04:46.346025]   done running 83_id108062.cli
+[2020-06-17T16:04:46.467918]   done running 82_id108062.cli
+[2020-06-17T16:04:46.544642]   done running 123_id108062.cli
+[2020-06-17T16:04:47.070553]   done running 63_id108062.cli
+[2020-06-17T16:04:47.108312]   done running 22_id108062.cli
+[2020-06-17T16:04:54.864132]   done running 112_id108062.cli
+[2020-06-17T16:04:54.866997]   done running 141_id108062.cli
+[2020-06-17T16:04:54.868547]   done running 111_id108062.cli
+[2020-06-17T16:04:54.879647]   done running 43_id108062.cli
+[2020-06-17T16:04:54.972358]   done running 72_id108062.cli
+[2020-06-17T16:04:55.007689]   done running 101_id108062.cli
+[2020-06-17T16:04:55.019450]   done running 42_id108062.cli
